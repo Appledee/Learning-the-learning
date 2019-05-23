@@ -1,7 +1,7 @@
-# Learning-the-learning
+## Learning-the-learning
 A learning methodology
 
--Repeat, think and write down what you have learnt. 
+- Repeat, think and write down what you have learnt. 
 
 # You can become an expert on something in a way that is more effecient than 10,000 hours theory. 
 
