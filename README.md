@@ -1,4 +1,4 @@
-## Learning-the-learning
+## How to learn
 A learning methodology
 
 Repeat, think and write down what you have learnt. 
